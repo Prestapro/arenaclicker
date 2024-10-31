@@ -24,3 +24,31 @@ py arena.py
 Также Вам надо будет поставить несколько библитек, через pip
 pip3 install time
 pip3 install pyautogui
+
+#EN VERSION
+This is a simple clicker for Raid Shadows Legends.
+
+What does it do?
+Just clicks 10 teams in a row and plays exactly 1 battle.
+The delay between battles is 60 seconds by default, you can edit it in any direction.
+time.sleep(60)
+
+To run the clicker, you will also need to know the coordinates and edit them:
+# List of coordinates to click initially
+INITIAL_COORDINATES = [(1149, 288), (1167, 382), (1155, 484), (1141, 596), (1148, 699), (1154, 817), (1149, 919), (1139, 1023), (1149, 1135), (1163, 1239)]
+
+# Coordinate for intermediate clicks
+INTERMEDIATE_COORDINATE = (1154, 1306)
+
+# Coordinate for repeated clicks
+REPEAT_COORDINATE = (764, 1305)
+
+To find out your coordinates, run first mouse.py script
+Of course, first you need to have python installed, depending on the python version and the environment, the command can be:
+pythin2 arena.py
+pythin3 arena.py
+py arena.py
+
+You will also need to install several libraries, via pip
+pip3 install time
+pip3 install pyautogui
