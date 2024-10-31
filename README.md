@@ -25,7 +25,7 @@ py arena.py
 pip3 install time
 pip3 install pyautogui
 
-#EN VERSION
+# EN VERSION
 This is a simple clicker for Raid Shadows Legends.
 
 What does it do?
