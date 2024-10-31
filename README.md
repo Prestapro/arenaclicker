@@ -1,7 +1,8 @@
 Это простой кликер для Raid Shadows Legends.
 
 ## Что он делает?
-Просто кликает по очереди 10 команд и играет ровно 1 бой.
+Просто кликает по очереди 10 команд и играет ровно 1 бой с каждой командой.
+Это немного экономит время, если ваша команда достаточно сильная, чтобы побеждать на автобое.
 Задержка между боями по умолчанию между боями 60 секунд, Вы можете отредактировать ее в любую сторону.
 time.sleep(60)
 
@@ -29,7 +30,8 @@ pip3 install pyautogui
 This is a simple clicker for Raid Shadows Legends.
 
 ## What does it do?
-Just clicks 10 teams in a row and plays exactly 1 battle.
+Simply click on 10 teams in turn and play exactly 1 battle with each team.
+This saves a bit of time if your team is strong enough to win on auto battle.
 The delay between battles is 60 seconds by default, you can edit it in any direction.
 time.sleep(60)
 
