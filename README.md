@@ -54,3 +54,5 @@ py arena.py
 You will also need to install several libraries, via pip
 pip3 install time
 pip3 install pyautogui
+
+[![](https://cdn-icons-png.freepik.com/256/13069/13069101.png)](https://pay.cloudtips.ru/p/e5e68d31)
