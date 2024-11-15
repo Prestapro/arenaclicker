@@ -55,5 +55,12 @@ You will also need to install several libraries, via pip
 pip3 install time
 pip3 install pyautogui
 
-### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по иконке, для перехода)
-[![](https://cdn-icons-png.freepik.com/256/13069/13069101.png)](https://pay.cloudtips.ru/p/e5e68d31)
+### Sponsor this and other projects on Raid Shadows Legend (click on the button to go)
+<a href="https://paypal.me/rslprogamer?country.x=KZ&locale.x=en_US">
+  <img src="https://doc.prestapro.ru/rsl/donate_en.png" alt="Donate with PayPal" />
+</a>
+
+### Спонсировать этот и другие проекты по Raid Shadows Legend (кликнуть по избражению, для перехода)
+<a href="https://pay.cloudtips.ru/p/e5e68d31">
+  <img src="https://doc.prestapro.ru/rsl/donate_ru.png">
+</a>
